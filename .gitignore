@@ -34,3 +34,15 @@ Desktop.ini
 
 # Lokale EXE
 OpScale.exe
+
+# Input videos
+input/*
+
+# Keep folder
+!input/.gitkeep
+
+# Models
+models/
+
+# Build script (optional)
+# make_release.bat
